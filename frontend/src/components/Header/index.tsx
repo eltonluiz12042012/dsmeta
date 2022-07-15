@@ -10,7 +10,7 @@ function Header() {
                 <img src={logo} alt="Logo do site"/>
                 <h1>DSMeta</h1>
                 <p>Desenvolvido por
-                    <a href="https://www.linkedin.com/in/elton-luiz-santos-do-franco-dpo/" target="_blank">Elton Luiz</a>
+                    <a href="https://www.linkedin.com/in/elton-luiz-santos-do-franco-dpo/" target="_blank">&nbsp;Elton Luiz</a>
                 </p>
             </div>
         </header>
